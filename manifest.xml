@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote
+    name="origin"
+    fetch="https://github.com/haddad-abdelhakim/"/>
+
+  <default
+    revision="main"
+    remote="origin"
+    sync-j="4"/>
+
+  <project
+    path="project1"
+    name="haddad-abdelhakim/projetIOT.git"
+    groups="iot"/>
+
+  <project
+    path="project2"
+    name="haddad-abdelhakim/git_trainning.git"
+    groups="git_trainning"/>
+</manifest>
+
